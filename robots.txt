@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://castlerockhvacco.com/sitemap.xml
